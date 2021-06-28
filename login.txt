@@ -1,0 +1,1 @@
+login.Text == "blade" && password.Text == "blade")
